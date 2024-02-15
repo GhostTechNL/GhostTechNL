@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GhostTechNL
-- 👀 I’m interested in gaming & developing of things like arduino, web apps and other things. I also like to engineer things.
+- 👀 I’m interested in gaming & developing things like arduino, web apps and other things. I also like to engineer things.
 - 🌱 I’m currently learning to become a great programmer.
 - 📫 How to reach me = 'Just send me a message';
 
